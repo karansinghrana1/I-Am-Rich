@@ -50,7 +50,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 This app is inspired by the infamous "I Am Rich" app that was available on the App Store.
 
 ## Screenshots
-![App Logo](https://imgur.com/a/NgANg3E)
+![App Logo](![image](https://github.com/karansinghrana1/I-Am-Rich/assets/96226118/b58fb173-4ced-48dd-a97e-5b406c4d635f)
+)
 ![App UI]([https://i.imgur.com/example.png](https://imgur.com/a/fJIjm5e))
 
 
